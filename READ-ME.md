@@ -7,7 +7,7 @@ Enunciado:
 
 - [x] Alteração dos botões  de comando: SETA PARA CIMA, BAIXO E ESCAPE;
 - [ ] Alteração da velocidade/dificuldade do jogo criando uma variavel global que controle a velocidade de todos os elementos a medida em que inimigos são explodidos(o jogo avança).
-- [ ] 
+- [ ] Formatação do texto de placar final. 
 
 
 ## Projeto Finalizado
